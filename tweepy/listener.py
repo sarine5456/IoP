@@ -34,6 +34,7 @@ access_token_secret = credentials.access_token_secret
 file_path = 'tweets/tweets.csv'
 counter = 0
 
+
 class StdOutListener(StreamListener):
     """ A listener handles tweets that are received from the stream.
     This is a basic listener that just prints received tweets to stdout.
