@@ -8,3 +8,7 @@ To work with this implementation you have to be sure of having "tweepy" and your
 You can install tweepy using pip:
 
         pip install tweepy  
+        
+## Twitter objects
+In order to properly setup the twitter map section of the script it is a good idea to check out the kind of objects that a tweet contains.
+[Tweet objects](https://developer.twitter.com/en/docs/tweets/data-dictionary/overview/intro-to-tweet-json.html)
