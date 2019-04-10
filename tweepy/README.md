@@ -8,6 +8,7 @@ To work with this implementation you have to be sure of having "tweepy" and your
 You can install tweepy using pip:
 
         pip install tweepy  
+        pip install geojson
         
 ## Twitter objects
 In order to properly setup the twitter map section of the script it is a good idea to check out the kind of objects that a tweet contains.
