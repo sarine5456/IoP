@@ -24,6 +24,7 @@ def map_tweet(tweet):
     properties['text'] = tweet_dict['text'].replace('\n', '|| ').encode("utf-8")
     properties['user'] = user['screen_name']
     properties['user_followers'] = user['followers_count']
+    properties['created_at'] = tweet_dict['created_at']
     properties['timestamp_ms'] = tweet_dict['timestamp_ms']
     properties['quote_count'] = tweet_dict['quote_count']
     properties['reply_count'] = tweet_dict['reply_count']
