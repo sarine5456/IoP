@@ -18,7 +18,7 @@ import matplotlib.pyplot as plt
 
 ######################################################
 # Read a csv file
-tweets = pd.read_csv('data/tweets.csv')
+tweets = pd.read_csv('../data/tweets_g2_tal.csv')
 
 # Basic plots
 tweets.plot()                                       # plots all columns against index

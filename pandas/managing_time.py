@@ -15,7 +15,7 @@ import matplotlib.pyplot as plt
 
 ######################################################
 # Read a csv file
-tweets = pd.read_csv('data/tweets_s.csv')
+tweets = pd.read_csv('../data/tweets_g2_tal.csv')
 
 # Time data formats are diverse. one of those formats (and the most reliable) is milliseconds after the epoch
 
