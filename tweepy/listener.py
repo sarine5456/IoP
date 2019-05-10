@@ -17,6 +17,7 @@ from config import credentials
 from config import writer
 from config import tweetMap
 
+import datetime
 import time
 import random
 
@@ -58,9 +59,40 @@ if __name__ == '__main__':
     auth = OAuthHandler(consumer_key, consumer_secret)
     auth.set_access_token(access_token, access_token_secret)
 
-    stream = Stream(auth, l)
-    # stream.filter(locations=[2.0434, 41.2510, 2.4227, 41.5030])
+    # attempts counter and time span for controlling sleep time
+    attempts = 0
+    sleep_time = 600
 
+    # Handling twitter http connection error
+    while True:
+        try:
+            print('Starting listening streaming at %s' % str(datetime.datetime.now()))
+            stream = Stream(auth, l)
+            # stream.filter(locations=[2.0434, 41.2510, 2.4227, 41.5030])
+
+            # if you want to listen to a set of keywords use this line, you can combine with the location option
+            # stream.filter(track=['your_keyword', 'second_keyword'])
+            # stream.filter(track=['your_keyword', 'second_keyword'], locations=[2.0434, 41.2510, 2.4227, 41.5030])
+
+            # if you want to listen to a set of tweets posted within a certain bounding box use this line and if you
+            # want to listen to multiple locations use an array with a sequence of coordinates (groups of 4)
+            # stream.filter(locations=[2.0434, 41.2510, 2.4227, 41.5030])
+            # stream.filter(locations=[2.0434, 41.2510, 2.4227, 41.5030, -75.6599, 6.1282, -75.5066, 6.3688])
+
+            # test Barcelona and Paris
+            stream.filter(locations=[1.581, 48.429, 3.053, 49.197, 2.0434, 41.2510, 2.4227, 41.5030])
+        except:
+            print('Error in connection. %i times at %s' % (attempts, str(datetime.datetime.now())))
+            if attempts < 1:
+                time.sleep(sleep_time)
+            elif attempts < 3:
+                time.sleep((attempts+1)*sleep_time)
+            else:
+                time.sleep(attempts*sleep_time)
+                attempts = 0
+            attempts = attempts + 1
+
+<<<<<<< HEAD
     # if you want to listen to a set of keywords use this line, you can combine with the location option
     # stream.filter(track=['your_keyword', 'second_keyword'])
     # stream.filter(track=['your_keyword', 'second_keyword'], locations=[2.0434, 41.2510, 2.4227, 41.5030])
@@ -81,4 +113,6 @@ if __name__ == '__main__':
     # -71.406732, 46.730272, -71.146215, 46.916796          Quebec
     # 139.58336, 35.535362, 139.919587, 35.818562           Tokyo
 
+=======
+>>>>>>> upstream/master
 

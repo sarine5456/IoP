@@ -22,14 +22,20 @@ def map_tweet(tweet):
     properties = dict()
     properties['id'] = tweet_dict['id_str']
     properties['text'] = tweet_dict['text'].replace('\n', '|| ').encode("utf-8")
+    properties['source'] = tweet_dict['source']
     properties['user'] = user['screen_name']
     properties['user_followers'] = user['followers_count']
+    properties['created_at'] = tweet_dict['created_at']
     properties['timestamp_ms'] = tweet_dict['timestamp_ms']
     properties['quote_count'] = tweet_dict['quote_count']
     properties['reply_count'] = tweet_dict['reply_count']
     properties['retweet_count'] = tweet_dict['retweet_count']
     properties['favorite_count'] = tweet_dict['favorite_count']
-    properties['url'] = entities['urls'] #when there are more than one
+    properties['language'] = tweet_dict['lang']
+    properties['urls'] = entities['urls'] #when there are more than one
+    properties['hashtags'] = entities['hashtags']
+    properties['mentions'] = entities['user_mentions']
+    properties['symbols'] = entities['symbols']
 
     # Check if tweet is geo and fill a new set of properties
     is_geo = tweet_dict['geo']
