@@ -8,14 +8,17 @@
 # This script uses pandas for data management for more information visit; pandas.pydata.org/
 # This script uses geopandas for data management for more information visit; geopandas.org/
 
-import json
 import pandas as pd
 import matplotlib.pyplot as plt
+from pandas import plotting
+
+
+plotting.register_matplotlib_converters()
 
 
 ######################################################
 # Read a csv file
-tweets = pd.read_csv('../data/tweets_g2_tal.csv')
+tweets = pd.read_csv('../data/tweets_b.csv')
 
 # Time data formats are diverse. one of those formats (and the most reliable) is milliseconds after the epoch
 
@@ -35,23 +38,17 @@ tweets['time'] = pd.to_datetime(tweets['timestamp_ms'], unit='ms')
 ######################################################
 # Plots using time
 fig, ax = plt.subplots()
-ax.scatter(tweets['time'], tweets['user_screen_name'], alpha=0.3, s=2,)
+ax.scatter(tweets['time'], tweets['user_screen_name'], alpha=0.3, s=2)
 
 plt.title('Scatter plot using tweets')
 plt.show()
 
 
 # Changing y-axis value order and adding colors
-tweets.sort_values('user_screen_name', ascending = False, inplace= True)
+tweets.sort_values('user_screen_name', ascending=False, inplace=True)
 fig, ax = plt.subplots()
-#ax.set_yticklabels()
 ax.scatter(tweets['time'], tweets['user_screen_name'], s=2)
-
 plt.title('Scatter ordered by user posting tweets')
+plt.show()
 
 
-# Changing y-axis value order and adding colors
-tweets_per_user = tweets['user_screen_name'].value_counts()
-tweets_per_user.plot(kind='bar')
-
-print('end of graphs')

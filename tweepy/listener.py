@@ -92,8 +92,27 @@ if __name__ == '__main__':
                 attempts = 0
             attempts = attempts + 1
 
+<<<<<<< HEAD
+    # if you want to listen to a set of keywords use this line, you can combine with the location option
+    # stream.filter(track=['your_keyword', 'second_keyword'])
+    # stream.filter(track=['your_keyword', 'second_keyword'], locations=[2.0434, 41.2510, 2.4227, 41.5030])
 
-    # Some testing coordinates
-    # 2.0434, 41.2510, 2.4227, 41.5030      Barcelona
-    # -75.6599, 6.1282, -75.5066, 6.3688    Medellin
-    # 1.581, 48.429, 3.053, 49.197          Paris
+    # if you want to listen to a set of tweets posted within a certain bounding box use this line and if you
+    # want to listen to multiple locations use an array with a sequence of coordinates (groups of 4)
+    # stream.filter(locations=[2.0434, 41.2510, 2.4227, 41.5030])
+    # stream.filter(locations=[2.0434, 41.2510, 2.4227, 41.5030, -75.6599, 6.1282, -75.5066, 6.3688])
+
+    # test Barcelona and 5 other cities
+    stream.filter(locations=[2.095721, 41.334026, 2.242, 41.459385, 13.082829, 52.335389, 13.763982, 52.677764, 24.3605, 59.2484, 25.1296, 59.5988, 24.865916, 60.127921, 25.096629, 60.219994, -71.406732, 46.730272, -71.146215, 46.916796, 139.58336, 35.535362, 139.919587, 35.818562])
+
+    # Coordinates of 6 cities
+    # 2.095721, 41.334026, 2.242, 41.459385                 Barcelona
+    # 13.082829, 52.335389, 13.763982, 52.677764            Berlin
+    # 24.3605, 59.2484, 25.1296, 59.5988                    Tallinn
+    # 24.865916, 60.127921, 25.096629, 60.219994            Helsinki
+    # -71.406732, 46.730272, -71.146215, 46.916796          Quebec
+    # 139.58336, 35.535362, 139.919587, 35.818562           Tokyo
+
+=======
+>>>>>>> upstream/master
+
