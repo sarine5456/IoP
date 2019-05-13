@@ -18,7 +18,7 @@ plotting.register_matplotlib_converters()
 
 ######################################################
 # Read a csv file
-tweets = pd.read_csv('../data/tweets_s.csv')
+tweets = pd.read_csv('../data/tweets_b.csv')
 
 
 # Counting tweets per user and showing the count in a bar chart

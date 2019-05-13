@@ -33,6 +33,7 @@ def map_tweet(tweet):
     properties['favorite_count'] = tweet_dict['favorite_count']
     properties['language'] = tweet_dict['lang']
     properties['urls'] = entities['urls'] #when there are more than one
+    properties['media'] = entities['media']
     properties['hashtags'] = entities['hashtags']
     properties['mentions'] = entities['user_mentions']
     properties['symbols'] = entities['symbols']
