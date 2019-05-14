@@ -24,6 +24,8 @@ def map_tweet(tweet):
     properties['text'] = tweet_dict['text'].replace('\n', '|| ').encode("utf-8")
     properties['source'] = tweet_dict['source']
     properties['user'] = user['screen_name']
+    properties['user_location'] = user['location']
+    properties['user_created_at'] = user['created_at']
     properties['user_followers'] = user['followers_count']
     properties['created_at'] = tweet_dict['created_at']
     properties['timestamp_ms'] = tweet_dict['timestamp_ms']
@@ -33,7 +35,6 @@ def map_tweet(tweet):
     properties['favorite_count'] = tweet_dict['favorite_count']
     properties['language'] = tweet_dict['lang']
     properties['urls'] = entities['urls'] #when there are more than one
-    properties['media'] = entities['media']
     properties['hashtags'] = entities['hashtags']
     properties['mentions'] = entities['user_mentions']
     properties['symbols'] = entities['symbols']
