@@ -1,0 +1,977 @@
+month,neighbourhood,review_sum
+2018-01,Baró de Viver,15
+2018-01,Camp d'en Grassot i Gràcia Nova,9026
+2018-01,Can Baro,1428
+2018-01,Carmel,1710
+2018-01,Ciutat Vella,529
+2018-01,Diagonal Mar - La Mar Bella,2713
+2018-01,Dreta de l'Eixample,51384
+2018-01,Eixample,2220
+2018-01,El Baix Guinardó,3438
+2018-01,El Besòs i el Maresme,3979
+2018-01,El Bon Pastor,109
+2018-01,El Born,17775
+2018-01,El Camp de l'Arpa del Clot,6309
+2018-01,El Clot,3631
+2018-01,El Coll,1352
+2018-01,El Congrés i els Indians,277
+2018-01,El Gòtic,38688
+2018-01,El Poble-sec,33116
+2018-01,El Poblenou,11356
+2018-01,El Putget i Farró,3853
+2018-01,El Raval,48319
+2018-01,Glòries - El Parc,9101
+2018-01,Gràcia,290
+2018-01,Guinardó,5232
+2018-01,Horta,976
+2018-01,Horta-Guinardó,45
+2018-01,L'Antiga Esquerra de l'Eixample,20917
+2018-01,La Barceloneta,4800
+2018-01,La Font d'en Fargues,104
+2018-01,La Guineueta - Canyelles,273
+2018-01,La Maternitat i Sant Ramon,5987
+2018-01,La Nova Esquerra de l'Eixample,27653
+2018-01,La Prosperitat,157
+2018-01,La Sagrada Família,33714
+2018-01,La Sagrera,1378
+2018-01,La Salut,2540
+2018-01,La Teixonera,324
+2018-01,La Trinitat Vella,10
+2018-01,La Vall d'Hebron,73
+2018-01,La Verneda i La Pau,1388
+2018-01,La Vila Olímpica,4365
+2018-01,Les Corts,5366
+2018-01,Les Tres Torres,405
+2018-01,Montbau,234
+2018-01,Navas,1632
+2018-01,Nou Barris,232
+2018-01,Pedralbes,606
+2018-01,Porta,770
+2018-01,Provençals del Poblenou,2566
+2018-01,Sant Andreu,307
+2018-01,Sant Andreu de Palomar,1419
+2018-01,Sant Antoni,28345
+2018-01,Sant Genís dels Agudells,537
+2018-01,Sant Gervasi - Galvany,5383
+2018-01,Sant Gervasi - la Bonanova,810
+2018-01,Sant Martí,1807
+2018-01,Sant Martí de Provençals,2277
+2018-01,Sant Pere/Santa Caterina,14763
+2018-01,Sants-Montjuïc,33761
+2018-01,Sarrià,1146
+2018-01,Sarrià-Sant Gervasi,0
+2018-01,Torre Baró,256
+2018-01,Trinitat Nova,149
+2018-01,Turó de la Peira - Can Peguera,445
+2018-01,Vallcarca i els Penitents,2940
+2018-01,Verdum - Los Roquetes,503
+2018-01,Vila de Gràcia,32929
+2018-01,Vilapicina i la Torre Llobeta,1161
+2018-01,el Fort Pienc,15556
+2018-02,Baró de Viver,18
+2018-02,Camp d'en Grassot i Gràcia Nova,9510
+2018-02,Can Baro,1498
+2018-02,Carmel,1722
+2018-02,Ciutat Vella,611
+2018-02,Diagonal Mar - La Mar Bella,2735
+2018-02,Dreta de l'Eixample,52618
+2018-02,Eixample,2251
+2018-02,El Baix Guinardó,3434
+2018-02,El Besòs i el Maresme,3883
+2018-02,El Bon Pastor,95
+2018-02,El Born,17607
+2018-02,El Camp de l'Arpa del Clot,6331
+2018-02,El Clot,3631
+2018-02,El Coll,1408
+2018-02,El Congrés i els Indians,282
+2018-02,El Gòtic,38472
+2018-02,El Poble-sec,33787
+2018-02,El Poblenou,11746
+2018-02,El Putget i Farró,3932
+2018-02,El Raval,47247
+2018-02,Glòries - El Parc,9203
+2018-02,Gràcia,304
+2018-02,Guinardó,5049
+2018-02,Horta,971
+2018-02,Horta-Guinardó,47
+2018-02,L'Antiga Esquerra de l'Eixample,21316
+2018-02,La Barceloneta,4828
+2018-02,La Font d'en Fargues,105
+2018-02,La Guineueta - Canyelles,277
+2018-02,La Maternitat i Sant Ramon,3643
+2018-02,La Nova Esquerra de l'Eixample,28142
+2018-02,La Prosperitat,159
+2018-02,La Sagrada Família,34507
+2018-02,La Sagrera,1311
+2018-02,La Salut,2606
+2018-02,La Teixonera,314
+2018-02,La Trinitat Vella,3
+2018-02,La Vall d'Hebron,69
+2018-02,La Verneda i La Pau,1327
+2018-02,La Vila Olímpica,4544
+2018-02,Les Corts,4138
+2018-02,Les Tres Torres,404
+2018-02,Montbau,229
+2018-02,Navas,1508
+2018-02,Nou Barris,131
+2018-02,Pedralbes,439
+2018-02,Porta,774
+2018-02,Provençals del Poblenou,2437
+2018-02,Sant Andreu,2
+2018-02,Sant Andreu de Palomar,1344
+2018-02,Sant Antoni,29076
+2018-02,Sant Genís dels Agudells,572
+2018-02,Sant Gervasi - Galvany,5296
+2018-02,Sant Gervasi - la Bonanova,820
+2018-02,Sant Martí,251
+2018-02,Sant Martí de Provençals,2205
+2018-02,Sant Pere/Santa Caterina,14810
+2018-02,Sants-Montjuïc,30359
+2018-02,Sarrià,1097
+2018-02,Sarrià-Sant Gervasi,2
+2018-02,Torre Baró,256
+2018-02,Trinitat Nova,151
+2018-02,Turó de la Peira - Can Peguera,456
+2018-02,Vallcarca i els Penitents,2785
+2018-02,Verdum - Los Roquetes,519
+2018-02,Vila de Gràcia,33355
+2018-02,Vilapicina i la Torre Llobeta,1127
+2018-02,el Fort Pienc,15536
+2018-04,Baró de Viver,29
+2018-04,Camp d'en Grassot i Gràcia Nova,9640
+2018-04,Can Baro,1526
+2018-04,Carmel,1888
+2018-04,Ciutat Vella,658
+2018-04,Diagonal Mar - La Mar Bella,2988
+2018-04,Dreta de l'Eixample,55813
+2018-04,Eixample,2204
+2018-04,El Baix Guinardó,3820
+2018-04,El Besòs i el Maresme,4489
+2018-04,El Bon Pastor,98
+2018-04,El Born,16678
+2018-04,El Camp de l'Arpa del Clot,6449
+2018-04,El Clot,3607
+2018-04,El Coll,1516
+2018-04,El Congrés i els Indians,400
+2018-04,El Gòtic,41185
+2018-04,El Poble-sec,36690
+2018-04,El Poblenou,12266
+2018-04,El Putget i Farró,4006
+2018-04,El Raval,49812
+2018-04,Glòries - El Parc,8913
+2018-04,Gràcia,311
+2018-04,Guinardó,5348
+2018-04,Horta,1048
+2018-04,Horta-Guinardó,50
+2018-04,L'Antiga Esquerra de l'Eixample,21996
+2018-04,La Barceloneta,5779
+2018-04,La Font d'en Fargues,81
+2018-04,La Guineueta - Canyelles,284
+2018-04,La Maternitat i Sant Ramon,6300
+2018-04,La Nova Esquerra de l'Eixample,29320
+2018-04,La Prosperitat,208
+2018-04,La Sagrada Família,36064
+2018-04,La Sagrera,1405
+2018-04,La Salut,2730
+2018-04,La Teixonera,323
+2018-04,La Trinitat Vella,7
+2018-04,La Vall d'Hebron,72
+2018-04,La Verneda i La Pau,1535
+2018-04,La Vila Olímpica,4889
+2018-04,Les Corts,6248
+2018-04,Les Tres Torres,385
+2018-04,Montbau,245
+2018-04,Navas,1644
+2018-04,Nou Barris,216
+2018-04,Pedralbes,660
+2018-04,Porta,677
+2018-04,Provençals del Poblenou,2591
+2018-04,Sant Andreu,341
+2018-04,Sant Andreu de Palomar,1410
+2018-04,Sant Antoni,30060
+2018-04,Sant Genís dels Agudells,598
+2018-04,Sant Gervasi - Galvany,5756
+2018-04,Sant Gervasi - la Bonanova,811
+2018-04,Sant Martí,1789
+2018-04,Sant Martí de Provençals,2348
+2018-04,Sant Pere/Santa Caterina,15851
+2018-04,Sants-Montjuïc,36507
+2018-04,Sarrià,1128
+2018-04,Sarrià-Sant Gervasi,8
+2018-04,Torre Baró,269
+2018-04,Trinitat Nova,167
+2018-04,Turó de la Peira - Can Peguera,494
+2018-04,Vallcarca i els Penitents,2266
+2018-04,Verdum - Los Roquetes,539
+2018-04,Vila de Gràcia,34889
+2018-04,Vilapicina i la Torre Llobeta,1319
+2018-04,el Fort Pienc,16317
+2018-05,Eixample,300056
+2018-05,El Putget i Farró,572
+2018-05,Glòries - El Parc,322
+2018-05,Gràcia,6903
+2018-05,Horta-Guinardó,41121
+2018-05,La Barceloneta,8968
+2018-05,Les Corts,307
+2018-05,Nou Barris,3090
+2018-05,Sant Andreu,34810
+2018-05,Sant Martí,138532
+2018-05,Sants-Montjuïc,18514
+2018-05,Sarrià-Sant Gervasi,3159
+2018-06,Baró de Viver,47
+2018-06,Camp d'en Grassot i Gràcia Nova,10167
+2018-06,Can Baro,1574
+2018-06,Carmel,1699
+2018-06,Ciutat Vella,500
+2018-06,Diagonal Mar - La Mar Bella,2863
+2018-06,Dreta de l'Eixample,56668
+2018-06,Eixample,2020
+2018-06,El Baix Guinardó,3840
+2018-06,El Besòs i el Maresme,4344
+2018-06,El Bon Pastor,41
+2018-06,El Born,12684
+2018-06,El Camp de l'Arpa del Clot,6727
+2018-06,El Clot,3664
+2018-06,El Coll,1438
+2018-06,El Congrés i els Indians,338
+2018-06,El Gòtic,35904
+2018-06,El Poble-sec,35825
+2018-06,El Poblenou,12981
+2018-06,El Putget i Farró,3888
+2018-06,El Raval,43206
+2018-06,Glòries - El Parc,8705
+2018-06,Gràcia,330
+2018-06,Guinardó,4711
+2018-06,Horta,1168
+2018-06,Horta-Guinardó,42
+2018-06,L'Antiga Esquerra de l'Eixample,22105
+2018-06,La Barceloneta,5097
+2018-06,La Font d'en Fargues,94
+2018-06,La Guineueta - Canyelles,312
+2018-06,La Maternitat i Sant Ramon,3691
+2018-06,La Nova Esquerra de l'Eixample,28365
+2018-06,La Prosperitat,214
+2018-06,La Sagrada Família,36213
+2018-06,La Sagrera,1473
+2018-06,La Salut,2784
+2018-06,La Teixonera,360
+2018-06,La Trinitat Vella,3
+2018-06,La Vall d'Hebron,81
+2018-06,La Verneda i La Pau,1590
+2018-06,La Vila Olímpica,4180
+2018-06,Les Corts,4237
+2018-06,Les Tres Torres,448
+2018-06,Montbau,275
+2018-06,Navas,1673
+2018-06,Nou Barris,185
+2018-06,Pedralbes,524
+2018-06,Porta,657
+2018-06,Provençals del Poblenou,2760
+2018-06,Sant Andreu,0
+2018-06,Sant Andreu de Palomar,1508
+2018-06,Sant Antoni,29498
+2018-06,Sant Genís dels Agudells,481
+2018-06,Sant Gervasi - Galvany,5676
+2018-06,Sant Gervasi - la Bonanova,811
+2018-06,Sant Martí,209
+2018-06,Sant Martí de Provençals,2294
+2018-06,Sant Pere/Santa Caterina,12635
+2018-06,Sants-Montjuïc,31088
+2018-06,Sarrià,1138
+2018-06,Sarrià-Sant Gervasi,4
+2018-06,Torre Baró,304
+2018-06,Trinitat Nova,179
+2018-06,Turó de la Peira - Can Peguera,406
+2018-06,Vallcarca i els Penitents,2540
+2018-06,Verdum - Los Roquetes,639
+2018-06,Vila de Gràcia,33437
+2018-06,Vilapicina i la Torre Llobeta,1312
+2018-06,el Fort Pienc,16601
+2018-07,Baró de Viver,51
+2018-07,Camp d'en Grassot i Gràcia Nova,10366
+2018-07,Can Baro,1598
+2018-07,Carmel,1812
+2018-07,Ciutat Vella,510
+2018-07,Diagonal Mar - La Mar Bella,3067
+2018-07,Dreta de l'Eixample,58845
+2018-07,Eixample,2088
+2018-07,El Baix Guinardó,4277
+2018-07,El Besòs i el Maresme,4522
+2018-07,El Bon Pastor,56
+2018-07,El Born,12968
+2018-07,El Camp de l'Arpa del Clot,6967
+2018-07,El Clot,4018
+2018-07,El Coll,1518
+2018-07,El Congrés i els Indians,469
+2018-07,El Gòtic,36469
+2018-07,El Poble-sec,38261
+2018-07,El Poblenou,13447
+2018-07,El Putget i Farró,4181
+2018-07,El Raval,44407
+2018-07,Glòries - El Parc,8870
+2018-07,Gràcia,341
+2018-07,Guinardó,5504
+2018-07,Horta,1227
+2018-07,Horta-Guinardó,51
+2018-07,L'Antiga Esquerra de l'Eixample,23139
+2018-07,La Barceloneta,5225
+2018-07,La Font d'en Fargues,102
+2018-07,La Guineueta - Canyelles,342
+2018-07,La Maternitat i Sant Ramon,4011
+2018-07,La Nova Esquerra de l'Eixample,30923
+2018-07,La Prosperitat,248
+2018-07,La Sagrada Família,37750
+2018-07,La Sagrera,1451
+2018-07,La Salut,2896
+2018-07,La Teixonera,369
+2018-07,La Trinitat Vella,9
+2018-07,La Vall d'Hebron,55
+2018-07,La Verneda i La Pau,1614
+2018-07,La Vila Olímpica,4198
+2018-07,Les Corts,4469
+2018-07,Les Tres Torres,429
+2018-07,Montbau,303
+2018-07,Navas,1661
+2018-07,Nou Barris,199
+2018-07,Pedralbes,552
+2018-07,Porta,618
+2018-07,Provençals del Poblenou,2919
+2018-07,Sant Andreu,1
+2018-07,Sant Andreu de Palomar,1540
+2018-07,Sant Antoni,30560
+2018-07,Sant Genís dels Agudells,526
+2018-07,Sant Gervasi - Galvany,6091
+2018-07,Sant Gervasi - la Bonanova,876
+2018-07,Sant Martí,209
+2018-07,Sant Martí de Provençals,2429
+2018-07,Sant Pere/Santa Caterina,13138
+2018-07,Sants-Montjuïc,31314
+2018-07,Sarrià,1170
+2018-07,Sarrià-Sant Gervasi,4
+2018-07,Torre Baró,316
+2018-07,Trinitat Nova,189
+2018-07,Turó de la Peira - Can Peguera,436
+2018-07,Vallcarca i els Penitents,2554
+2018-07,Verdum - Los Roquetes,687
+2018-07,Vila de Gràcia,33656
+2018-07,Vilapicina i la Torre Llobeta,1201
+2018-07,el Fort Pienc,17020
+2018-08,Baró de Viver,58
+2018-08,Camp d'en Grassot i Gràcia Nova,10524
+2018-08,Can Baro,1655
+2018-08,Carmel,1705
+2018-08,Ciutat Vella,524
+2018-08,Diagonal Mar - La Mar Bella,2996
+2018-08,Dreta de l'Eixample,59265
+2018-08,Eixample,2170
+2018-08,El Baix Guinardó,4140
+2018-08,El Besòs i el Maresme,4968
+2018-08,El Bon Pastor,64
+2018-08,El Born,12873
+2018-08,El Camp de l'Arpa del Clot,7297
+2018-08,El Clot,3849
+2018-08,El Coll,1391
+2018-08,El Congrés i els Indians,567
+2018-08,El Gòtic,35582
+2018-08,El Poble-sec,37886
+2018-08,El Poblenou,13715
+2018-08,El Putget i Farró,4295
+2018-08,El Raval,41977
+2018-08,Glòries - El Parc,9550
+2018-08,Gràcia,354
+2018-08,Guinardó,5503
+2018-08,Horta,1026
+2018-08,Horta-Guinardó,63
+2018-08,L'Antiga Esquerra de l'Eixample,23839
+2018-08,La Barceloneta,5706
+2018-08,La Font d'en Fargues,109
+2018-08,La Guineueta - Canyelles,364
+2018-08,La Maternitat i Sant Ramon,4102
+2018-08,La Nova Esquerra de l'Eixample,30912
+2018-08,La Prosperitat,266
+2018-08,La Sagrada Família,38721
+2018-08,La Sagrera,1398
+2018-08,La Salut,2569
+2018-08,La Teixonera,401
+2018-08,La Trinitat Vella,24
+2018-08,La Vall d'Hebron,77
+2018-08,La Verneda i La Pau,1693
+2018-08,La Vila Olímpica,4666
+2018-08,Les Corts,4502
+2018-08,Les Tres Torres,452
+2018-08,Montbau,343
+2018-08,Navas,1732
+2018-08,Nou Barris,210
+2018-08,Pedralbes,568
+2018-08,Porta,672
+2018-08,Provençals del Poblenou,3213
+2018-08,Sant Andreu,1
+2018-08,Sant Andreu de Palomar,1411
+2018-08,Sant Antoni,31532
+2018-08,Sant Genís dels Agudells,546
+2018-08,Sant Gervasi - Galvany,6198
+2018-08,Sant Gervasi - la Bonanova,939
+2018-08,Sant Martí,234
+2018-08,Sant Martí de Provençals,2626
+2018-08,Sant Pere/Santa Caterina,12914
+2018-08,Sants-Montjuïc,32319
+2018-08,Sarrià,1217
+2018-08,Sarrià-Sant Gervasi,5
+2018-08,Torre Baró,336
+2018-08,Trinitat Nova,198
+2018-08,Turó de la Peira - Can Peguera,502
+2018-08,Vallcarca i els Penitents,2522
+2018-08,Verdum - Los Roquetes,723
+2018-08,Vila de Gràcia,35215
+2018-08,Vilapicina i la Torre Llobeta,1151
+2018-08,el Fort Pienc,17820
+2018-09,Baró de Viver,65
+2018-09,Camp d'en Grassot i Gràcia Nova,10508
+2018-09,Can Baro,1596
+2018-09,Carmel,1844
+2018-09,Ciutat Vella,534
+2018-09,Diagonal Mar - La Mar Bella,3240
+2018-09,Dreta de l'Eixample,60657
+2018-09,Eixample,2097
+2018-09,El Baix Guinardó,4233
+2018-09,El Besòs i el Maresme,5294
+2018-09,El Bon Pastor,77
+2018-09,El Born,12946
+2018-09,El Camp de l'Arpa del Clot,7656
+2018-09,El Clot,4087
+2018-09,El Coll,1541
+2018-09,El Congrés i els Indians,609
+2018-09,El Gòtic,36083
+2018-09,El Poble-sec,39722
+2018-09,El Poblenou,13912
+2018-09,El Putget i Farró,4436
+2018-09,El Raval,43210
+2018-09,Glòries - El Parc,9879
+2018-09,Gràcia,366
+2018-09,Guinardó,4903
+2018-09,Horta,1082
+2018-09,Horta-Guinardó,63
+2018-09,L'Antiga Esquerra de l'Eixample,24161
+2018-09,La Barceloneta,5597
+2018-09,La Font d'en Fargues,92
+2018-09,La Guineueta - Canyelles,399
+2018-09,La Maternitat i Sant Ramon,4115
+2018-09,La Nova Esquerra de l'Eixample,30806
+2018-09,La Prosperitat,243
+2018-09,La Sagrada Família,39796
+2018-09,La Sagrera,1770
+2018-09,La Salut,2581
+2018-09,La Teixonera,413
+2018-09,La Trinitat Vella,31
+2018-09,La Vall d'Hebron,112
+2018-09,La Verneda i La Pau,1460
+2018-09,La Vila Olímpica,4691
+2018-09,Les Corts,4668
+2018-09,Les Tres Torres,475
+2018-09,Montbau,362
+2018-09,Navas,1816
+2018-09,Nou Barris,197
+2018-09,Pedralbes,553
+2018-09,Porta,708
+2018-09,Provençals del Poblenou,3297
+2018-09,Sant Andreu,2
+2018-09,Sant Andreu de Palomar,1559
+2018-09,Sant Antoni,31507
+2018-09,Sant Genís dels Agudells,485
+2018-09,Sant Gervasi - Galvany,6384
+2018-09,Sant Gervasi - la Bonanova,775
+2018-09,Sant Martí,245
+2018-09,Sant Martí de Provençals,2640
+2018-09,Sant Pere/Santa Caterina,12911
+2018-09,Sants-Montjuïc,32329
+2018-09,Sarrià,1259
+2018-09,Sarrià-Sant Gervasi,5
+2018-09,Torre Baró,335
+2018-09,Trinitat Nova,111
+2018-09,Turó de la Peira - Can Peguera,488
+2018-09,Vallcarca i els Penitents,2585
+2018-09,Verdum - Los Roquetes,704
+2018-09,Vila de Gràcia,35531
+2018-09,Vilapicina i la Torre Llobeta,1208
+2018-09,el Fort Pienc,18020
+2018-10,Baró de Viver,71
+2018-10,Camp d'en Grassot i Gràcia Nova,10755
+2018-10,Can Baro,1737
+2018-10,Carmel,2117
+2018-10,Ciutat Vella,556
+2018-10,Diagonal Mar - La Mar Bella,3612
+2018-10,Dreta de l'Eixample,62746
+2018-10,Eixample,2295
+2018-10,El Baix Guinardó,4195
+2018-10,El Besòs i el Maresme,5547
+2018-10,El Bon Pastor,88
+2018-10,El Born,12672
+2018-10,El Camp de l'Arpa del Clot,7560
+2018-10,El Clot,4258
+2018-10,El Coll,1439
+2018-10,El Congrés i els Indians,523
+2018-10,El Gòtic,35548
+2018-10,El Poble-sec,39580
+2018-10,El Poblenou,14436
+2018-10,El Putget i Farró,4457
+2018-10,El Raval,42168
+2018-10,Glòries - El Parc,9928
+2018-10,Gràcia,376
+2018-10,Guinardó,4941
+2018-10,Horta,1131
+2018-10,Horta-Guinardó,55
+2018-10,L'Antiga Esquerra de l'Eixample,24974
+2018-10,La Barceloneta,5787
+2018-10,La Font d'en Fargues,47
+2018-10,La Guineueta - Canyelles,420
+2018-10,La Maternitat i Sant Ramon,3949
+2018-10,La Nova Esquerra de l'Eixample,31026
+2018-10,La Prosperitat,247
+2018-10,La Sagrada Família,40177
+2018-10,La Sagrera,1191
+2018-10,La Salut,2588
+2018-10,La Teixonera,418
+2018-10,La Trinitat Vella,47
+2018-10,La Vall d'Hebron,89
+2018-10,La Verneda i La Pau,1424
+2018-10,La Vila Olímpica,4767
+2018-10,Les Corts,4886
+2018-10,Les Tres Torres,477
+2018-10,Montbau,372
+2018-10,Navas,1913
+2018-10,Nou Barris,203
+2018-10,Pedralbes,580
+2018-10,Porta,748
+2018-10,Provençals del Poblenou,2992
+2018-10,Sant Andreu,0
+2018-10,Sant Andreu de Palomar,1634
+2018-10,Sant Antoni,31800
+2018-10,Sant Genís dels Agudells,509
+2018-10,Sant Gervasi - Galvany,6477
+2018-10,Sant Gervasi - la Bonanova,863
+2018-10,Sant Martí,255
+2018-10,Sant Martí de Provençals,2738
+2018-10,Sant Pere/Santa Caterina,13779
+2018-10,Sants-Montjuïc,32964
+2018-10,Sarrià,1335
+2018-10,Sarrià-Sant Gervasi,5
+2018-10,Torre Baró,345
+2018-10,Trinitat Nova,120
+2018-10,Turó de la Peira - Can Peguera,466
+2018-10,Vallcarca i els Penitents,2660
+2018-10,Verdum - Los Roquetes,713
+2018-10,Vila de Gràcia,36330
+2018-10,Vilapicina i la Torre Llobeta,1272
+2018-10,el Fort Pienc,18577
+2018-11,Baró de Viver,78
+2018-11,Camp d'en Grassot i Gràcia Nova,10498
+2018-11,Can Baro,1820
+2018-11,Carmel,1929
+2018-11,Ciutat Vella,576
+2018-11,Diagonal Mar - La Mar Bella,3751
+2018-11,Dreta de l'Eixample,64130
+2018-11,Eixample,2293
+2018-11,El Baix Guinardó,4269
+2018-11,El Besòs i el Maresme,5029
+2018-11,El Bon Pastor,89
+2018-11,El Born,12786
+2018-11,El Camp de l'Arpa del Clot,7616
+2018-11,El Clot,4308
+2018-11,El Coll,1437
+2018-11,El Congrés i els Indians,481
+2018-11,El Gòtic,35941
+2018-11,El Poble-sec,41032
+2018-11,El Poblenou,14430
+2018-11,El Putget i Farró,4170
+2018-11,El Raval,41554
+2018-11,Glòries - El Parc,10282
+2018-11,Gràcia,415
+2018-11,Guinardó,4823
+2018-11,Horta,1181
+2018-11,Horta-Guinardó,73
+2018-11,L'Antiga Esquerra de l'Eixample,24931
+2018-11,La Barceloneta,6032
+2018-11,La Font d'en Fargues,121
+2018-11,La Guineueta - Canyelles,400
+2018-11,La Maternitat i Sant Ramon,4278
+2018-11,La Nova Esquerra de l'Eixample,31398
+2018-11,La Prosperitat,254
+2018-11,La Sagrada Família,40791
+2018-11,La Sagrera,1298
+2018-11,La Salut,2641
+2018-11,La Teixonera,339
+2018-11,La Trinitat Vella,38
+2018-11,La Vall d'Hebron,98
+2018-11,La Verneda i La Pau,1437
+2018-11,La Vila Olímpica,4829
+2018-11,Les Corts,4837
+2018-11,Les Tres Torres,492
+2018-11,Montbau,388
+2018-11,Navas,1910
+2018-11,Nou Barris,128
+2018-11,Pedralbes,603
+2018-11,Porta,662
+2018-11,Provençals del Poblenou,3128
+2018-11,Sant Andreu,0
+2018-11,Sant Andreu de Palomar,1571
+2018-11,Sant Antoni,31459
+2018-11,Sant Genís dels Agudells,521
+2018-11,Sant Gervasi - Galvany,6736
+2018-11,Sant Gervasi - la Bonanova,953
+2018-11,Sant Martí,264
+2018-11,Sant Martí de Provençals,2805
+2018-11,Sant Pere/Santa Caterina,13477
+2018-11,Sants-Montjuïc,34202
+2018-11,Sarrià,1291
+2018-11,Sarrià-Sant Gervasi,5
+2018-11,Torre Baró,355
+2018-11,Trinitat Nova,128
+2018-11,Turó de la Peira - Can Peguera,470
+2018-11,Vallcarca i els Penitents,2749
+2018-11,Verdum - Los Roquetes,722
+2018-11,Vila de Gràcia,37513
+2018-11,Vilapicina i la Torre Llobeta,1339
+2018-11,el Fort Pienc,18011
+2018-12,Baró de Viver,85
+2018-12,Camp d'en Grassot i Gràcia Nova,10866
+2018-12,Can Baro,1619
+2018-12,Carmel,2001
+2018-12,Ciutat Vella,601
+2018-12,Diagonal Mar - La Mar Bella,3783
+2018-12,Dreta de l'Eixample,67504
+2018-12,Eixample,2276
+2018-12,El Baix Guinardó,4119
+2018-12,El Besòs i el Maresme,5299
+2018-12,El Bon Pastor,95
+2018-12,El Born,12463
+2018-12,El Camp de l'Arpa del Clot,7735
+2018-12,El Clot,4514
+2018-12,El Coll,1530
+2018-12,El Congrés i els Indians,460
+2018-12,El Gòtic,36168
+2018-12,El Poble-sec,41491
+2018-12,El Poblenou,14530
+2018-12,El Putget i Farró,4270
+2018-12,El Raval,42476
+2018-12,Glòries - El Parc,10386
+2018-12,Gràcia,424
+2018-12,Guinardó,4853
+2018-12,Horta,1180
+2018-12,Horta-Guinardó,59
+2018-12,L'Antiga Esquerra de l'Eixample,25554
+2018-12,La Barceloneta,6123
+2018-12,La Font d'en Fargues,53
+2018-12,La Guineueta - Canyelles,393
+2018-12,La Maternitat i Sant Ramon,4091
+2018-12,La Nova Esquerra de l'Eixample,32025
+2018-12,La Prosperitat,252
+2018-12,La Sagrada Família,41394
+2018-12,La Sagrera,1321
+2018-12,La Salut,2748
+2018-12,La Teixonera,449
+2018-12,La Trinitat Vella,43
+2018-12,La Vall d'Hebron,105
+2018-12,La Verneda i La Pau,1508
+2018-12,La Vila Olímpica,4991
+2018-12,Les Corts,5256
+2018-12,Les Tres Torres,505
+2018-12,Montbau,363
+2018-12,Navas,1526
+2018-12,Nou Barris,99
+2018-12,Pedralbes,603
+2018-12,Porta,578
+2018-12,Provençals del Poblenou,3086
+2018-12,Sant Andreu,0
+2018-12,Sant Andreu de Palomar,1370
+2018-12,Sant Antoni,32664
+2018-12,Sant Genís dels Agudells,526
+2018-12,Sant Gervasi - Galvany,6968
+2018-12,Sant Gervasi - la Bonanova,978
+2018-12,Sant Martí,270
+2018-12,Sant Martí de Provençals,2668
+2018-12,Sant Pere/Santa Caterina,13579
+2018-12,Sants-Montjuïc,35355
+2018-12,Sarrià,1147
+2018-12,Sarrià-Sant Gervasi,5
+2018-12,Torre Baró,357
+2018-12,Trinitat Nova,136
+2018-12,Turó de la Peira - Can Peguera,479
+2018-12,Vallcarca i els Penitents,2814
+2018-12,Verdum - Los Roquetes,757
+2018-12,Vila de Gràcia,37495
+2018-12,Vilapicina i la Torre Llobeta,1387
+2018-12,el Fort Pienc,18557
+2019-01,Baró de Viver,91
+2019-01,Camp d'en Grassot i Gràcia Nova,10450
+2019-01,Can Baro,1453
+2019-01,Carmel,1780
+2019-01,Ciutat Vella,603
+2019-01,Diagonal Mar - La Mar Bella,3740
+2019-01,Dreta de l'Eixample,66835
+2019-01,Eixample,2188
+2019-01,El Baix Guinardó,4249
+2019-01,El Besòs i el Maresme,4540
+2019-01,El Bon Pastor,88
+2019-01,El Born,11947
+2019-01,El Camp de l'Arpa del Clot,7276
+2019-01,El Clot,4438
+2019-01,El Coll,1481
+2019-01,El Congrés i els Indians,485
+2019-01,El Gòtic,34217
+2019-01,El Poble-sec,40912
+2019-01,El Poblenou,13922
+2019-01,El Putget i Farró,3973
+2019-01,El Raval,41123
+2019-01,Glòries - El Parc,9989
+2019-01,Gràcia,427
+2019-01,Guinardó,4626
+2019-01,Horta,1121
+2019-01,Horta-Guinardó,49
+2019-01,L'Antiga Esquerra de l'Eixample,24281
+2019-01,La Barceloneta,5197
+2019-01,La Font d'en Fargues,54
+2019-01,La Guineueta - Canyelles,327
+2019-01,La Maternitat i Sant Ramon,4010
+2019-01,La Nova Esquerra de l'Eixample,31450
+2019-01,La Prosperitat,249
+2019-01,La Sagrada Família,40737
+2019-01,La Sagrera,1301
+2019-01,La Salut,2569
+2019-01,La Teixonera,368
+2019-01,La Trinitat Vella,44
+2019-01,La Vall d'Hebron,116
+2019-01,La Verneda i La Pau,1192
+2019-01,La Vila Olímpica,4993
+2019-01,Les Corts,5151
+2019-01,Les Tres Torres,487
+2019-01,Montbau,357
+2019-01,Navas,1442
+2019-01,Nou Barris,76
+2019-01,Pedralbes,531
+2019-01,Porta,584
+2019-01,Provençals del Poblenou,3194
+2019-01,Sant Andreu,1
+2019-01,Sant Andreu de Palomar,1227
+2019-01,Sant Antoni,31165
+2019-01,Sant Genís dels Agudells,535
+2019-01,Sant Gervasi - Galvany,6399
+2019-01,Sant Gervasi - la Bonanova,1023
+2019-01,Sant Martí,166
+2019-01,Sant Martí de Provençals,2551
+2019-01,Sant Pere/Santa Caterina,12223
+2019-01,Sants-Montjuïc,34227
+2019-01,Sarrià,1150
+2019-01,Sarrià-Sant Gervasi,5
+2019-01,Torre Baró,364
+2019-01,Trinitat Nova,141
+2019-01,Turó de la Peira - Can Peguera,435
+2019-01,Vallcarca i els Penitents,2381
+2019-01,Verdum - Los Roquetes,785
+2019-01,Vila de Gràcia,37483
+2019-01,Vilapicina i la Torre Llobeta,1390
+2019-01,el Fort Pienc,17912
+2019-02,Baró de Viver,98
+2019-02,Camp d'en Grassot i Gràcia Nova,10349
+2019-02,Can Baro,1468
+2019-02,Carmel,1625
+2019-02,Ciutat Vella,614
+2019-02,Diagonal Mar - La Mar Bella,3673
+2019-02,Dreta de l'Eixample,67308
+2019-02,Eixample,2147
+2019-02,El Baix Guinardó,3847
+2019-02,El Besòs i el Maresme,4476
+2019-02,El Bon Pastor,95
+2019-02,El Born,12109
+2019-02,El Camp de l'Arpa del Clot,7315
+2019-02,El Clot,3880
+2019-02,El Coll,1342
+2019-02,El Congrés i els Indians,471
+2019-02,El Gòtic,34327
+2019-02,El Poble-sec,40382
+2019-02,El Poblenou,13700
+2019-02,El Putget i Farró,3828
+2019-02,El Raval,40582
+2019-02,Glòries - El Parc,9905
+2019-02,Gràcia,431
+2019-02,Guinardó,4894
+2019-02,Horta,959
+2019-02,Horta-Guinardó,50
+2019-02,L'Antiga Esquerra de l'Eixample,24133
+2019-02,La Barceloneta,5239
+2019-02,La Font d'en Fargues,55
+2019-02,La Guineueta - Canyelles,343
+2019-02,La Maternitat i Sant Ramon,4112
+2019-02,La Nova Esquerra de l'Eixample,31756
+2019-02,La Prosperitat,163
+2019-02,La Sagrada Família,40397
+2019-02,La Sagrera,1354
+2019-02,La Salut,2598
+2019-02,La Teixonera,376
+2019-02,La Trinitat Vella,46
+2019-02,La Vall d'Hebron,117
+2019-02,La Verneda i La Pau,1192
+2019-02,La Vila Olímpica,5136
+2019-02,Les Corts,5161
+2019-02,Les Tres Torres,495
+2019-02,Montbau,366
+2019-02,Navas,1481
+2019-02,Nou Barris,76
+2019-02,Pedralbes,533
+2019-02,Porta,560
+2019-02,Provençals del Poblenou,3251
+2019-02,Sant Andreu,4
+2019-02,Sant Andreu de Palomar,1137
+2019-02,Sant Antoni,31039
+2019-02,Sant Genís dels Agudells,438
+2019-02,Sant Gervasi - Galvany,6411
+2019-02,Sant Gervasi - la Bonanova,1001
+2019-02,Sant Martí,168
+2019-02,Sant Martí de Provençals,2455
+2019-02,Sant Pere/Santa Caterina,12292
+2019-02,Sants-Montjuïc,34689
+2019-02,Sarrià,1215
+2019-02,Sarrià-Sant Gervasi,5
+2019-02,Torre Baró,359
+2019-02,Trinitat Nova,148
+2019-02,Turó de la Peira - Can Peguera,440
+2019-02,Vallcarca i els Penitents,2345
+2019-02,Verdum - Los Roquetes,794
+2019-02,Vila de Gràcia,37190
+2019-02,Vilapicina i la Torre Llobeta,1374
+2019-02,el Fort Pienc,17300
+2019-03,Camp d'en Grassot i Gràcia Nova,4900
+2019-03,Can Baro,854
+2019-03,Carmel,568
+2019-03,Ciutat Vella,63790
+2019-03,Diagonal Mar - La Mar Bella,1334
+2019-03,Dreta de l'Eixample,29809
+2019-03,Eixample,131558
+2019-03,El Baix Guinardó,2374
+2019-03,El Besòs i el Maresme,2707
+2019-03,El Bon Pastor,75
+2019-03,El Born,1738
+2019-03,El Camp de l'Arpa del Clot,2103
+2019-03,El Clot,1872
+2019-03,El Coll,1369
+2019-03,El Congrés i els Indians,189
+2019-03,El Gòtic,15070
+2019-03,El Poble-sec,17891
+2019-03,El Poblenou,5488
+2019-03,El Putget i Farró,1454
+2019-03,El Raval,21971
+2019-03,Glòries - El Parc,3743
+2019-03,Gràcia,28680
+2019-03,Guinardó,2811
+2019-03,Horta,540
+2019-03,Horta-Guinardó,6783
+2019-03,L'Antiga Esquerra de l'Eixample,11052
+2019-03,La Barceloneta,2989
+2019-03,La Font d'en Fargues,46
+2019-03,La Guineueta - Canyelles,214
+2019-03,La Maternitat i Sant Ramon,936
+2019-03,La Nova Esquerra de l'Eixample,11535
+2019-03,La Prosperitat,116
+2019-03,La Sagrada Família,16077
+2019-03,La Sagrera,281
+2019-03,La Salut,1833
+2019-03,La Teixonera,415
+2019-03,La Trinitat Vella,24
+2019-03,La Vall d'Hebron,76
+2019-03,La Verneda i La Pau,584
+2019-03,La Vila Olímpica,2846
+2019-03,Les Corts,8664
+2019-03,Les Tres Torres,282
+2019-03,Montbau,340
+2019-03,Navas,619
+2019-03,Nou Barris,2708
+2019-03,Pedralbes,250
+2019-03,Porta,274
+2019-03,Provençals del Poblenou,1293
+2019-03,Sant Andreu,3111
+2019-03,Sant Andreu de Palomar,730
+2019-03,Sant Antoni,13977
+2019-03,Sant Genís dels Agudells,144
+2019-03,Sant Gervasi - Galvany,3735
+2019-03,Sant Gervasi - la Bonanova,94
+2019-03,Sant Martí,34352
+2019-03,Sant Martí de Provençals,943
+2019-03,Sant Pere/Santa Caterina,7157
+2019-03,Sants-Montjuïc,59852
+2019-03,Sarrià,524
+2019-03,Sarrià-Sant Gervasi,8108
+2019-03,Torre Baró,286
+2019-03,Trinitat Nova,23
+2019-03,Turó de la Peira - Can Peguera,389
+2019-03,Vallcarca i els Penitents,1389
+2019-03,Verdum - Los Roquetes,4
+2019-03,Vila de Gràcia,18004
+2019-03,Vilapicina i la Torre Llobeta,487
+2019-03,el Fort Pienc,9718
+2019-04,Camp d'en Grassot i Gràcia Nova,4873
+2019-04,Can Baro,1076
+2019-04,Carmel,708
+2019-04,Ciutat Vella,56181
+2019-04,Diagonal Mar - La Mar Bella,1944
+2019-04,Dreta de l'Eixample,33282
+2019-04,Eixample,125894
+2019-04,El Baix Guinardó,2311
+2019-04,El Besòs i el Maresme,2351
+2019-04,El Bon Pastor,78
+2019-04,El Born,4320
+2019-04,El Camp de l'Arpa del Clot,3206
+2019-04,El Clot,1663
+2019-04,El Coll,311
+2019-04,El Congrés i els Indians,245
+2019-04,El Gòtic,18453
+2019-04,El Poble-sec,18852
+2019-04,El Poblenou,6789
+2019-04,El Putget i Farró,2293
+2019-04,El Raval,22131
+2019-04,Glòries - El Parc,3958
+2019-04,Gràcia,32492
+2019-04,Guinardó,3132
+2019-04,Horta,734
+2019-04,Horta-Guinardó,7135
+2019-04,L'Antiga Esquerra de l'Eixample,12217
+2019-04,La Barceloneta,3684
+2019-04,La Font d'en Fargues,19
+2019-04,La Guineueta - Canyelles,255
+2019-04,La Maternitat i Sant Ramon,1622
+2019-04,La Nova Esquerra de l'Eixample,13592
+2019-04,La Prosperitat,27
+2019-04,La Sagrada Família,19419
+2019-04,La Sagrera,821
+2019-04,La Salut,1907
+2019-04,La Teixonera,419
+2019-04,La Trinitat Vella,20
+2019-04,La Vall d'Hebron,81
+2019-04,La Verneda i La Pau,624
+2019-04,La Vila Olímpica,3169
+2019-04,Les Corts,8300
+2019-04,Les Tres Torres,241
+2019-04,Montbau,206
+2019-04,Navas,644
+2019-04,Nou Barris,3197
+2019-04,Pedralbes,258
+2019-04,Porta,174
+2019-04,Provençals del Poblenou,1281
+2019-04,Sant Andreu,2802
+2019-04,Sant Andreu de Palomar,894
+2019-04,Sant Antoni,16261
+2019-04,Sant Genís dels Agudells,184
+2019-04,Sant Gervasi - Galvany,3334
+2019-04,Sant Gervasi - la Bonanova,137
+2019-04,Sant Martí,32277
+2019-04,Sant Martí de Provençals,1088
+2019-04,Sant Pere/Santa Caterina,11037
+2019-04,Sants-Montjuïc,58698
+2019-04,Sarrià,603
+2019-04,Sarrià-Sant Gervasi,7763
+2019-04,Torre Baró,195
+2019-04,Trinitat Nova,42
+2019-04,Turó de la Peira - Can Peguera,59
+2019-04,Vallcarca i els Penitents,1268
+2019-04,Verdum - Los Roquetes,25
+2019-04,Vila de Gràcia,17501
+2019-04,Vilapicina i la Torre Llobeta,407
+2019-04,el Fort Pienc,9789
