@@ -14,7 +14,7 @@ import matplotlib.pyplot as plt
 
 ######################################################
 # Read a csv file
-tweets = pd.read_csv('../data/tweets_s.csv')
+tweets = pd.read_csv('../data/tweets_g2_tal.csv')
 
 # Text columns can have internal objects and regular expressions are very useful for dealing with this structures
 # More info about regular expressions is available
@@ -72,7 +72,7 @@ hashtags_list.columns = ['ht']
 hashtags_list = hashtags_list.dropna()
 ht_count = hashtags_list['ht'].value_counts()
 # getting only the top X values
-ht_top = ht_count.nlargest(30)
+ht_top = ht_count.nlargest(10)
 
 # Bar chart with the count of hashtags (barh: for horizontal bar chart)
 # try this out using a very a big file ;)
