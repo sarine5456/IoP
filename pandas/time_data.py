@@ -39,7 +39,6 @@ tweets['time'] = pd.to_datetime(tweets['timestamp_ms'], unit='ms')
 # Plots using time
 fig, ax = plt.subplots()
 ax.scatter(tweets['time'], tweets['user_screen_name'], alpha=0.3, s=2)
-
 plt.title('Scatter plot using tweets')
 plt.show()
 

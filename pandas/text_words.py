@@ -36,7 +36,17 @@ print('Words: %i' % len(words_example))
 # Counting words from the entire set of tweets
 words = tweets['text'].str.split(r"\s")
 words = pd.DataFrame(itertools.chain(*words))
-
 print('Total words: %i' % len(words))
+
+# Plotting top words
+words['words'] = words                          # This line does not make any sense but it is needed for plotting
+count_words = words['words'].value_counts()
+
+# top users
+top_words = count_words.nlargest(100)
+fig, ax = plt.subplots()
+top_words.plot(kind='barh', title="Top users")
+plt.show()
+
 
 

@@ -1,1 +1,1 @@
-id,text,source,user_screen_name,user_followers_count,created_at,timestamp_ms,quote_count,reply_count,retweet_count,favorite_count,language,urls,hashtags,mentions,symbols,lon,lat,place_type,place_name,place_full_name,place_min_lat,place_min_lon,place_max_lat,place_max_lon
+id,text,source,user_screen_name,user_location,user_created_at,user_followers_count,created_at,timestamp_ms,quote_count,reply_count,retweet_count,favorite_count,language,urls,hashtags,mentions,symbols,lon,lat,place_type,place_name,place_full_name,place_min_lat,place_min_lon,place_max_lat,place_max_lon

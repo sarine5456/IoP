@@ -57,9 +57,9 @@ plt.show()
 #########################################################
 # Text and json-like structure
 print('This is an example of a JSON object inside a column')
-print(tweets['hashtags'][24])
+print(tweets['hashtags'][43])
 
-hashtags = tweets['hashtags'][24]
+hashtags = tweets['hashtags'][43]
 hashtags = re.findall(r": \W(\D+)\W,", tweets['hashtags'][24])
 
 
